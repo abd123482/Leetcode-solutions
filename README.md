@@ -36,11 +36,11 @@ make cpp-0001-two-sum
 
 ## Progress
 
-| #  | Title           | Solutions                   | Language | Difficulty |
-|----|-----------------|-----------------------------|----------|------------|
-| 1  | Two Sum         | [1-Two-Sum.c](1-Two-Sum.c) | C        | Easy       |
-| 2  | Add Two Numbers | [2-Add-Two-Numbers.c](2-Add-Two-Numbers.c) | C | Medium |
-| 7  | Reverse Integer | [7-Reverse-Integer.c](7-Reverse-Integer.c) | C | Medium |
-| 27 | Remove Element  | [27-Remove-Element.c](27-Remove-Element.c) | C | Easy   |
+| #  | Title            | Solution                            | Language | Difficulty |
+|----|------------------|-------------------------------------|----------|------------|
+| 1  | Two Sum          | [1-Two-Sum.c](./1-Two-Sum.c)         | C        | Easy       |
+| 2  | Add Two Numbers  | [2-Add-Two-Numbers.c](./2-Add-Two-Numbers.c) | C | Medium |
+| 7  | Reverse Integer  | [7-Reverse-Integer.c](./7-Reverse-Integer.c) | C | Medium |
+| 27 | Remove Element   | [27-Remove-Element.c](./27-Remove-Element.c) | C | Easy   |
 make clean
 
