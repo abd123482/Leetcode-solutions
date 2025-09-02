@@ -11,4 +11,3 @@ int reverse(int x) {
     }
     return reverse;
 }
-
