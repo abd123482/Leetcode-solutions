@@ -36,11 +36,12 @@ make cpp-0001-two-sum
 
 ## Progress
 
-| #  | Title            | Language | Difficulty |
-|----|------------------|----------|------------|
-| 1  | Two Sum          | C        | Easy       |
-| 2  | Add Two Numbers  | C        | Medium     |
-| 7  | Reverse Integer  | C        | Medium     |
-| 27 | Remove Element   | C        | Easy       |
-make clean
+| #  | Title                                | Language | Difficulty |
+|----|--------------------------------------|----------|------------|
+| 1  | Two Sum                              | C        | Easy       |
+| 2  | Add Two Numbers                      | C        | Medium     |
+| 7  | Reverse Integer                      | C        | Medium     |
+| 27 | Remove Element                       | C        | Easy       |
+| 26 | Remove Duplicates from Sorted Array  | C        | Easy       |
+---------------------------------------------------------------------
 
