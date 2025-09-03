@@ -43,5 +43,6 @@ make cpp-0001-two-sum
 | 7  | Reverse Integer                      | C        | Medium     |
 | 27 | Remove Element                       | C        | Easy       |
 | 26 | Remove Duplicates from Sorted Array  | C        | Easy       |
+| 24 |  Swap-Nodes-in-Pairs                 | C        | Medium     |
 ---------------------------------------------------------------------
 
