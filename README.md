@@ -38,14 +38,15 @@ make cpp-0001-two-sum
 |----|--------------------------------------|----------|------------|-
 | #  | Title                                | Language | Difficulty |
 |----|--------------------------------------|----------|------------|
-| 1  | Two Sum                              | C        | Easy       |
-| 2  | Add Two Numbers                      | C        | Medium     |
-| 7  | Reverse Integer                      | C        | Medium     |
-| 27 | Remove Element                       | C        | Easy       |
-| 26 | Remove Duplicates From Sorted Array  | C        | Easy       |
-| 24 | Swap Nodes In Pairs                  | C        | Medium     |
-| 88 | Merge Sorted Array                   | C        | Easy       |
-| 83 |  Remove Duplicate From Sorted List   | C        | Easy       |
+|0001| Two Sum                              | C        | Easy       |
+|0002| Add Two Numbers                      | C        | Medium     |
+|0007| Reverse Integer                      | C        | Medium     |
+|0024| Swap Nodes In Pairs                  | C        | Medium     |
+|0026| Remove Duplicates From Sorted Array  | C        | Easy       |
+|0027| Remove Element                       | C        | Easy       |
+|0083| Remove Duplicate From Sorted List    | C        | Easy       |
+|0088| Merge Sorted Array                   | C        | Easy       |
+|0203| Remove Linked List Elements          | C        | Easy       |
 |2253| Add Two Integers                     | C        | Easy       |
 |----|--------------------------------------|----------|------------|
 
