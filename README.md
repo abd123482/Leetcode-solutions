@@ -42,9 +42,10 @@ make cpp-0001-two-sum
 | 2  | Add Two Numbers                      | C        | Medium     |
 | 7  | Reverse Integer                      | C        | Medium     |
 | 27 | Remove Element                       | C        | Easy       |
-| 26 | Remove Duplicates from Sorted Array  | C        | Easy       |
-| 24 | Swap Nodes in Pairs                  | C        | Medium     |
-| 88 | Merge Sorted array                   | C        | Easy       |
+| 26 | Remove Duplicates From Sorted Array  | C        | Easy       |
+| 24 | Swap Nodes In Pairs                  | C        | Medium     |
+| 88 | Merge Sorted Array                   | C        | Easy       |
 | 83 |  Remove Duplicate From Sorted List   | C        | Easy       |
+|2253| Add Two Integers                     | C        | Easy       |
 |----|--------------------------------------|----------|------------|
 
