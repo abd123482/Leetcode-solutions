@@ -45,5 +45,6 @@ make cpp-0001-two-sum
 | 26 | Remove Duplicates from Sorted Array  | C        | Easy       |
 | 24 | Swap Nodes in Pairs                  | C        | Medium     |
 | 88 | Merge Sorted array                   | C        | Easy       |
+| 83 |  Remove Duplicate From Sorted List   | C        | Easy       |
 |----|--------------------------------------|----------|------------|
 
