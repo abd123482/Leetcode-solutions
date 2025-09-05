@@ -51,6 +51,7 @@ make cpp-0001-two-sum
 |0035| Search Insert Position               | C        | Easy       |
 |0083| Remove Duplicate From Sorted List    | C        | Easy       |
 |0088| Merge Sorted Array                   | C        | Easy       |
+|0136| Single Number                        | C        | Easy       |
 |0203| Remove Linked List Elements          | C        | Easy       |
 |2253| Add Two Integers                     | C        | Easy       |
 |----|--------------------------------------|----------|------------|
