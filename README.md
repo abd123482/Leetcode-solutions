@@ -40,6 +40,7 @@ make cpp-0001-two-sum
 |----|--------------------------------------|----------|------------|
 |0001| Two Sum                              | C        | Easy       |
 |0002| Add Two Numbers                      | C        | Medium     |
+|0004| Median Of Two Sorted Arrays          | C        | Hard       |
 |0007| Reverse Integer                      | C        | Medium     |
 |0024| Swap Nodes In Pairs                  | C        | Medium     |
 |0026| Remove Duplicates From Sorted Array  | C        | Easy       |
