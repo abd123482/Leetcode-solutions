@@ -53,6 +53,7 @@ make cpp-0001-two-sum
 |0088| Merge Sorted Array                   | C        | Easy       |
 |0136| Single Number                        | C        | Easy       |
 |0203| Remove Linked List Elements          | C        | Easy       |
+|0204| Count Primes                         | C        | Medium     |
 |2253| Add Two Integers                     | C        | Easy       |
 |----|--------------------------------------|----------|------------|
 
