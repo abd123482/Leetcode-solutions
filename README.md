@@ -46,6 +46,7 @@ make cpp-0001-two-sum
 |0009| Palindrome Number                    | C        | Easy       |
 |0013| Roman To Integer                     | C        | Easy       |
 |0019| Remove Nth Node From End of List     | C        | Medium     |
+|0021| Merge Two Sorted Lists               | C        | Easy       |
 |0024| Swap Nodes In Pairs                  | C        | Medium     |
 |0026| Remove Duplicates From Sorted Array  | C        | Easy       |
 |0027| Remove Element                       | C        | Easy       |
