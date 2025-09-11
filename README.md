@@ -43,6 +43,7 @@ make cpp-0001-two-sum
 |0003| Longest Substring                    | C        | Medium     |
 |0004| Median Of Two Sorted Arrays          | C        | Hard       |
 |0005| Longest Palindromic Substring        | C        | Medium     |
+|0006| Zigzag Conversion                    | C        | Medium     |
 |0007| Reverse Integer                      | C        | Medium     |
 |0008| String To Integer                    | C        | Medium     |
 |0009| Palindrome Number                    | C        | Easy       |
